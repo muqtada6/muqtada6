@@ -1,8 +1,6 @@
-#include<iostream>
-using namespace std;
-int main()
-{
-cout<<" my name is ---> muqtada  ";
+#include<stdio.h>
 
-return 0;
+int main(void){
+string answer = get_string("whst is your name);
+printf("hello, answer\n");
 }
